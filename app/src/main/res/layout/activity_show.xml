@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        app:srcCompat="@android:drawable/btn_star_big_on" />
+        app:srcCompat="@mipmap/icon0" />
 
     <LinearLayout
         android:layout_width="match_parent"
